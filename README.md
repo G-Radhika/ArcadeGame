@@ -1,6 +1,6 @@
 [//]: # (Image References)
 
-[image1]: ./arcadeGame.PNG "Game in progress..."
+[image1]: ./arcadeGame.png "Game in progress..."
 
 How to START game.
 =================
