@@ -1,3 +1,6 @@
+[//]: # (Image References)
+
+[image1]: ./demo.PNG "Game in progress..."
 
 How to START game.
 =================
@@ -11,3 +14,5 @@ How to play:
 3. All FOUR arrows can be used to guide the player in his quest. 
 4. In dev tools window score will be displayed which include total points gathered, total number of plays, number of losses and wins , and gems hit. 
 5. Enjoy the game and play as long as you want...
+
+![alt text][image1]
