@@ -15,4 +15,4 @@ How to play:
 4. In dev tools window score will be displayed which include total points gathered, total number of plays, number of losses and wins , and gems hit. 
 5. Enjoy the game and play as long as you want...
 
-![alt text][image1]
+![alt text][image1 = 120x120]
